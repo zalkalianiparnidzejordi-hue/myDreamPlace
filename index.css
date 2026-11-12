@@ -115,5 +115,16 @@ form{
         padding-bottom: 12px;
         padding-left: 12px;
     }
-    
+    .guest{
+        border: none;
+        background-color: #F2F2F2;
+        width: 100%;
+        max-width: 210px;
+        border-radius: 4px;
+        padding-top: 11px;
+        padding-right: 12px;
+        padding-bottom: 12px;
+        padding-left: 12px;
+
+    }
 }
