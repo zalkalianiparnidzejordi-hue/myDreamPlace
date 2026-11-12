@@ -14,12 +14,28 @@ header{
     justify-content: space-between;
     margin-left: 100px;
     margin-right: 100px;
+    align-items: center;
     ul{
         list-style: none;
         text-decoration: none;
         display: flex;  
+        gap: 48px;
+    }
+    button{
+        border: none;
+        width: 94px;
+        height: 40px;
+        border-radius: 6px;
+        color: #2F80ED; 
+        
     }
 }
 .myDreamPlace{
     display: flex;
+    gap: 4px;
+    img{
+        width: 24px;
+        height: 24px;
+
+    }
 }
