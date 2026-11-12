@@ -71,5 +71,19 @@ main{
             letter-spacing: 0%;
             text-align: center;
         }
+        .absolutePlan{
+            position: absolute;
+            left: 25%;
+            bottom: 38%;
+            color: white;
+            font-weight: 400;
+            font-size: 20px;
+            line-height: 140%;
+            letter-spacing: 2%;
+            text-align: center;
+        }
     }
+}
+span{
+    display: block;
 }
