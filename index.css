@@ -90,6 +90,9 @@ main{
 form{
     width: 100%;
     max-width: 1030px;
+    background-color: white;
+    padding: 10px 10px;
+    border-radius: 4px;
     .where{
         border: none;
         background-color: #F2F2F2;
@@ -101,4 +104,16 @@ form{
         padding-bottom: 12px;
         padding-left: 12px;
     }
+    .check{
+        border: none;
+        background-color: #F2F2F2;
+        width: 100%;
+        max-width: 170px;
+        border-radius: 4px;
+        padding-top: 11px;
+        padding-right: 12px;
+        padding-bottom: 12px;
+        padding-left: 12px;
+    }
+    
 }
