@@ -87,3 +87,18 @@ main{
 .block{
     display: block;
 }
+form{
+    width: 100%;
+    max-width: 1030px;
+    .where{
+        border: none;
+        background-color: #F2F2F2;
+        width: 100%;
+        max-width: 260px;
+        border-radius: 4px;
+        padding-top: 11px;
+        padding-right: 12px;
+        padding-bottom: 12px;
+        padding-left: 12px;
+    }
+}
