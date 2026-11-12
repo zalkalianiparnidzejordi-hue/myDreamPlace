@@ -10,6 +10,10 @@ p{
 }
 header{
     display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
     ul{
         list-style: none;
         text-decoration: none;
