@@ -20,14 +20,23 @@ header{
         text-decoration: none;
         display: flex;  
         gap: 48px;
+        li{
+            cursor: pointer;
+        }
     }
     button{
-        border: none;
+        border: 1px solid #2F80ED;
         width: 94px;
         height: 40px;
         border-radius: 6px;
         color: #2F80ED; 
-        
+        background-color: white;
+        cursor: pointer;
+    }
+    .Sign{
+        background-color: #2F80ED;
+        color: white;
+        cursor: pointer;
     }
 }
 .myDreamPlace{
